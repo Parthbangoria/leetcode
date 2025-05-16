@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Parthbangoria/leetcode/tree/master/0328-odd-even-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Parthbangoria/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
