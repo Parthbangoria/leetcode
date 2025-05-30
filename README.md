@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Parthbangoria/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/Parthbangoria/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Parthbangoria/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
