@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parthbangoria/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Parthbangoria/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Parthbangoria/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Parthbangoria/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parthbangoria/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Parthbangoria/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Parthbangoria/leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
