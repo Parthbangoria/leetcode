@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Parthbangoria/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Parthbangoria/leetcode/tree/master/0009-palindrome-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Parthbangoria/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Parthbangoria/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Parthbangoria/leetcode/tree/master/3321-type-of-triangle) |
 ## Stack
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Parthbangoria/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/Parthbangoria/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Parthbangoria/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2032-largest-odd-number-in-string](https://github.com/Parthbangoria/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Parthbangoria/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Parthbangoria/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
