@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Parthbangoria/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Parthbangoria/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parthbangoria/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0229-majority-element-ii](https://github.com/Parthbangoria/leetcode/tree/master/0229-majority-element-ii) |
 | [3321-type-of-triangle](https://github.com/Parthbangoria/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Parthbangoria/leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Parthbangoria/leetcode/tree/master/0229-majority-element-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Parthbangoria/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3321-type-of-triangle](https://github.com/Parthbangoria/leetcode/tree/master/3321-type-of-triangle) |
 ## String Matching
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Parthbangoria/leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Parthbangoria/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0229-majority-element-ii](https://github.com/Parthbangoria/leetcode/tree/master/0229-majority-element-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Parthbangoria/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Parthbangoria/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Parthbangoria/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
