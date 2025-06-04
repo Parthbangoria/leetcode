@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Parthbangoria/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Parthbangoria/leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Parthbangoria/leetcode/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Parthbangoria/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Parthbangoria/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Parthbangoria/leetcode/tree/master/3321-type-of-triangle) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Parthbangoria/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Parthbangoria/leetcode/tree/master/0231-power-of-two) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Parthbangoria/leetcode/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Parthbangoria/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
