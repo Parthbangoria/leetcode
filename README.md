@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parthbangoria/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Parthbangoria/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parthbangoria/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Parthbangoria/leetcode/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parthbangoria/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0229-majority-element-ii](https://github.com/Parthbangoria/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Parthbangoria/leetcode/tree/master/0455-assign-cookies) |
+| [0735-asteroid-collision](https://github.com/Parthbangoria/leetcode/tree/master/0735-asteroid-collision) |
 | [3321-type-of-triangle](https://github.com/Parthbangoria/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Parthbangoria/leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Parthbangoria/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
