@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Parthbangoria/leetcode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/Parthbangoria/leetcode/tree/master/0735-asteroid-collision) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parthbangoria/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parthbangoria/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3321-type-of-triangle](https://github.com/Parthbangoria/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -192,8 +193,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parthbangoria/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parthbangoria/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parthbangoria/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parthbangoria/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parthbangoria/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
