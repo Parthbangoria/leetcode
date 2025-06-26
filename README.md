@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Parthbangoria/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parthbangoria/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Parthbangoria/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Parthbangoria/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
